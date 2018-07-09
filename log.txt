@@ -1,0 +1,10 @@
+
+---------
+{"ssl":0,"address":"devmd.co.uk","port":31235,"session":"6dccdd93c46d82ba"}
+---------
+Array
+---------
+Array
+---------
+Array
+---------
